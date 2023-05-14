@@ -4,4 +4,5 @@ This is the first file in this repo.
 
 ## Website Contents
 
-1. Index
+Listed below are the files in our website.
+1. Index.html
